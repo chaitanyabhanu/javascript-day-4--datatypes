@@ -1,0 +1,22 @@
+
+.container{
+    background-color: rgb(255,255,255);
+}
+
+.maker{
+    text-align: center;
+    padding: 10px 0;
+    margin: 0 auto;
+}
+
+.one{
+    background-color: rgb(255,0,0);
+}
+
+.two{
+    background-color: rgb(0,255,0);
+}
+
+.three{
+    background-color:rgb(0,255,255) ;
+}
